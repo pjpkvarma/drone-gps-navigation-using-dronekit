@@ -35,3 +35,10 @@ This repository contains a Python script for GPS-based autonomous navigation of 
 4. Run the script:
    ```bash
    python gps_navigation.py
+
+### Safety Guidelines
+1. Ensure the flight area is clear of obstacles and comply with local regulations.
+2. Perform pre-flight checks for hardware and software readiness.
+
+### Disclaimer
+This code is provided for educational purposes. Test it in a controlled environment before real-world use. The authors are not responsible for any issues arising from its use.
