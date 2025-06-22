@@ -1,3 +1,8 @@
+## 🚨 NOTE
+
+**⚠️ SCoPP project code will be uploaded after the associated journal paper is officially published. Thank you for your patience!**
+
+
 # Drone Navigation with DroneKit
 
 ## Overview
